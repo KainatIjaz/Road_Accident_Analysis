@@ -15,15 +15,11 @@ This project analyzes road accident data using **Python, Power BI, Excel, and SQ
 - Urban vs. rural accident trends
 - Speed limit vs. accident count
 
-## How to View Power BI Dashboard
- to access the interactive Power BI dashboard.
-
 ## Files Included
 - `Eda_Project.ipynb` - Python analysis
 - `EDA_PRESENTATION_SLIDES.pdf` - Presentation
 - `dashboard.pbix` - Power BI Dashboard
-- `dashboard.xlsx` - Excel Dashboard
-- `dataset.csv` - Data file
+- `EXCEL_DASHBOARD_IMAGE` - Excel Dashboard
 
 ## Conclusion
 - Focus road safety campaigns on high-risk days and times.
